@@ -33,3 +33,7 @@ Este projeto está aberto para sugestões e colaborações. Fique à vontade par
 ---
 
 Feito com 💙 por **ThaysterTech**
+
+## Desenvolvido por
+[Ester Costa] (https://github.com/esterzinha07)
+[Thays Tavares] (https://github.com/thaystavares09)
