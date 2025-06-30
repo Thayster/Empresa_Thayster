@@ -14,10 +14,10 @@ Este repositório contém os arquivos iniciais do projeto, como a estrutura de p
 - `CF` – Codigos usados no projeto.
 - `Icons` – Ícones utilizados na interface.
 - `README.md` – Arquivo com as informações do projeto.
-- 'MBD' - Modelo de banco de Dados
-- 'ÚTEIS' - Materiais auxiliares
-- 'UML' - Diagramas UML
-- 'PPTX' - Apresentação Final
+- `MBD` - Modelo de banco de dados
+- `ÚTEIS`- Materiais auxiliares
+- `UML`- Diagrama UML
+- `PPTX` - Apresentação Final
 
 ## 💡 Tecnologias usadas
 
