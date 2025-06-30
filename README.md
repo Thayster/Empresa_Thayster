@@ -36,4 +36,4 @@ Feito com 💙 por **ThaysterTech**
 
 ## Desenvolvido por
 [Ester Costa] (https://github.com/esterzinha07)
-[Thays Tavares] (https://github.com/thaystavaress09)
+[Thays Tavares] (https://github.com/thaystavaress)
