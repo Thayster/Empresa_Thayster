@@ -11,9 +11,13 @@ Este repositório contém os arquivos iniciais do projeto, como a estrutura de p
 ## 🗂 Estrutura
 
 - `Thayster/` – Contém os arquivos principais da aplicação.
-- `CF` – Documento relacionado à concepção funcional do projeto.
+- `CF` – Codigos usados no projeto.
 - `Icons` – Ícones utilizados na interface.
 - `README.md` – Arquivo com as informações do projeto.
+- 'MBD' - Modelo de banco de Dados
+- 'ÚTEIS' - Materiais auxiliares
+- 'UML' - Diagramas UML
+- 'PPTX' - Apresentação Final
 
 ## 💡 Tecnologias usadas
 
@@ -24,15 +28,10 @@ Este repositório contém os arquivos iniciais do projeto, como a estrutura de p
 
 ## 📈 Status do Projeto
 
-🟡 Em desenvolvimento – novas funcionalidades e melhorias estão sendo adicionadas.
-
-## 🤝 Contribuição
-
-Este projeto está aberto para sugestões e colaborações. Fique à vontade para abrir uma *issue* ou enviar um *pull request*!
-
+🟡 Terminado e pronto para uso.
 ---
 
-Feito com 💙 por **ThaysterTech**
+Feito por **ThaysterTech**
 
 ## Desenvolvido por
 [Ester Costa] (https://github.com/esterzinha07)
