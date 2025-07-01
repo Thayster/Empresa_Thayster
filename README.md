@@ -15,7 +15,7 @@ Este repositório contém os arquivos iniciais do projeto, como a estrutura de p
 - `Icons` – Ícones utilizados na interface.
 - `README.md` – Arquivo com as informações do projeto.
 - `MBD` - Modelo de banco de dados
-- `ÚTEIS`- Materiais auxiliares, Link dos vídeos auxiliares, organização inicial da ideias 
+- `ÚTEIS`- Materiais auxiliares, Link dos vídeos auxiliares, organização inicial das ideias 
 - `UML`- Diagrama UML
 - `PPTX` - Apresentação Final
 
